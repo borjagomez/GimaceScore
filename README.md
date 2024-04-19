@@ -5,6 +5,12 @@ features will be used to infer the Grimace Scale with a NN.
 
 Both CNN and NN are yet to be defined.
 
+## Installation
+
+```
+pip install -r requirements.txt
+```
+
 ## Dataset
 
 The original dataset comes from Kaggle: https://www.kaggle.com/datasets/crawford/cat-dataset/data
